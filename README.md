@@ -31,6 +31,8 @@ Roberta_LCA/
 └── README.md
 ```
 
+These scripts provide the PCA and heatmap exploratory analyses together with the primary and complementary LME analyses used to evaluate the study hypotheses.
+
 ---
 
 ## Methods summary
@@ -76,14 +78,7 @@ install.packages(c(
 
 If you use this repository, please cite:
 
-```bibtex
-@article{alonsoAlonso2022foodCravingPregnancy,
-  title   = {Food craving-like episodes during pregnancy are mediated by brain responses to the newly evolved endocrine organ placenta},
-  journal = {Nature Metabolism},
-  year    = {2022},
-  doi     = {10.1038/s42255-022-00557-1}
-}
-```
+Haddad-Tóvolli, R., Ramírez, S., Muñoz-Moreno, E. et al. Food craving-like episodes during pregnancy are mediated by accumbal dopaminergic circuits. Nat Metab 4, 424–434 (2022). https://doi.org/10.1038/s42255-022-00557-1
 
 ---
 
